@@ -1,4 +1,4 @@
-baseURL = "https://nturblog.netlify.com"
+baseURL = "https://nturblog.netlify.com/"
 languageCode = "en-gb"
 title = "ntur"
 theme = "kiss"
