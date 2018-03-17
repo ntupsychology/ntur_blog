@@ -1,7 +1,7 @@
 ---
 title: "A post with some maths"
 date: 2018-03-16T20:12:57Z
-draft: true
+draft: false
 author: Mark Andrews
 ---
 
@@ -25,3 +25,7 @@ n_i \sim \mathrm{binomial}(p_i, n_i+m_i),\quad \log\large\left(\frac{p_i}{1-p_i}
 $$
 This is binomial logistic regression.
 
+``` python
+import foobar
+foobar.x = 42
+```
