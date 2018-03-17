@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ntur</title>
+    <link>http://example.org/</link>
+    <description>Recent content on ntur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 16 Mar 2018 20:10:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/posts/introduction/</link>
+      <pubDate>Fri, 16 Mar 2018 20:10:39 +0000</pubDate>
+      
+      <guid>http://example.org/posts/introduction/</guid>
+      <description>Pellentesque gravida lacus ac augue porta viverra. Fusce aliquam erat est, id sodales orci tempor vel. In in justo cursus, pharetra nisl rutrum, pellentesque urna. Nulla volutpat odio erat, ac feugiat tellus pulvinar quis. Fusce vitae tempus nulla. Pellentesque dignissim et ipsum eu blandit. Nam vitae tincidunt nisl. Mauris id augue risus. Sed quis molestie urna.
+Curabitur interdum massa dignissim enim fermentum, eget aliquam ipsum sagittis. Mauris consectetur turpis orci, a ultrices justo molestie ut.</description>
+    </item>
+    
+  </channel>
+</rss>
